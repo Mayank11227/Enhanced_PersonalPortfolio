@@ -1,11 +1,38 @@
+🚀 My Portfolio Website
 
-  # Personal Portfolio Creation
+Welcome to my personal portfolio website!
+This project showcases my skills, projects, and journey as a web developer. It is built using modern web technologies and deployed live for everyone to explore.
 
-  This is a code bundle for Personal Portfolio Creation. The original project is available at https://www.figma.com/design/9QgGsxXwe0d9G8OybIdDqE/Personal-Portfolio-Creation.
+🌐 Live Demo
 
-  ## Running the code
+🔗 Live Website: https://your-live-link-here.com
 
-  Run `npm i` to install the dependencies.
+(Replace this with your actual deployed link — GitHub Pages / Vercel / Netlify etc.)
 
-  Run `npm run dev` to start the development server.
-  
+🛠️ Tech Stack
+
+This portfolio is built using:
+
+HTML5 – Structure of the website
+
+CSS3 – Styling and responsive design
+
+TypeScript – Strongly typed JavaScript
+
+React.js – Component-based UI development
+
+✨ Features
+
+Responsive design (Mobile + Desktop friendly)
+
+Modern and clean UI
+
+Project showcase section
+
+About Me section
+
+Skills section
+
+Contact section
+
+Smooth navigation and user experience
