@@ -7,7 +7,7 @@ This project showcases my skills, projects, and journey as a web developer. It i
 
 🔗 Live Website:https://portfoliowebsite-mayank.netlify.app/
 
-(Replace this with your actual deployed link — GitHub Pages / Vercel / Netlify etc.)
+
 
 🛠️ Tech Stack
 
