@@ -5,7 +5,7 @@ This project showcases my skills, projects, and journey as a web developer. It i
 
 🌐 Live Demo
 
-🔗 Live Website: https://incandescent-shortbread-2fd593.netlify.app/
+🔗 Live Website:https://portfoliowebsite-mayank.netlify.app/
 
 (Replace this with your actual deployed link — GitHub Pages / Vercel / Netlify etc.)
 
