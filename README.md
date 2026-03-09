@@ -24,15 +24,9 @@ React.js – Component-based UI development
 ✨ Features
 
 Responsive design (Mobile + Desktop friendly)
-
 Modern and clean UI
-
 Project showcase section
-
 About Me section
-
 Skills section
-
 Contact section
-
-Smooth navigation and user experience
+Smooth navigation and user experience .
