@@ -5,7 +5,7 @@ This project showcases my skills, projects, and journey as a web developer. It i
 
 🌐 Live Demo
 
-🔗 Live deployment link:
+🔗 Live deployment link: https://elegant-kashata-9b053b.netlify.app/
 
 
 
