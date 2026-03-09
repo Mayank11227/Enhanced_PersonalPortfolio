@@ -5,7 +5,7 @@ This project showcases my skills, projects, and journey as a web developer. It i
 
 🌐 Live Demo
 
-🔗 Live deployment link:https://portfoliowebsite-mayank.netlify.app/
+🔗 Live deployment link:
 
 
 
