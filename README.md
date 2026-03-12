@@ -27,5 +27,5 @@ Modern and clean UI
 Project showcase section
 About Me section
 Skills section
-Contact section
+Contact section..
 Smooth navigation and user experience .
