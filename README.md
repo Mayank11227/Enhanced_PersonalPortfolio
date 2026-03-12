@@ -24,7 +24,7 @@ React.js – Component-based UI development
 
 Responsive design (Mobile + Desktop friendly)
 Modern and clean UI
-Project showcase section
+Project showcase section..
 About Me section..
 Skills section
 Contact section..
