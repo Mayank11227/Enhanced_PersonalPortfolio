@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This project showcases my skills, projects, and journey as a web developer. It is built using modern web technologies and deployed live for everyone to explore.
 
 
-🔗 Live deployment link: https://elegant-kashata-9b053b.netlify.app/
+🔗 Live deployment link:[ https://elegant-kashata-9b053b.netlify.app/](https://portfolio-website1107.netlify.app/)
 
 
 
